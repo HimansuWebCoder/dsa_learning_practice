@@ -1,0 +1,6 @@
+What is good code?
+
+1. Readable
+2. Scalable (Big O)
+
+Interview BIG O

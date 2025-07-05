@@ -18,3 +18,7 @@ function printAllNumbersThenAllPairsSums(numbers) {
 printAllNumbersThenAllPairsSums([1,2,3,4,5])
 // O(n + n^2)
 // O(n^2)
+500
+// O(x^2+3x+100+x/2)
+// O(x^2)
+// O(x^3)

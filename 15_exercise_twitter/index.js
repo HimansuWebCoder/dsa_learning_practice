@@ -4,7 +4,7 @@ array[0]; // O(1)
 array[array.length-1] // O(1)
 
 const array = [{
-	tweet: 'hi',
+    tweet: 'hi',
     date: 2012
     }, 
     {
